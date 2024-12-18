@@ -17,7 +17,7 @@ body {
 }
 
 h1 {
-    color: #ff851b; /* Orange */
+    color: #a41b2f; /* Orange */
     margin-bottom: 20px; /* More space below the title */
 }
 
@@ -30,7 +30,7 @@ label {
     display: block;
     margin-top: 20px; /* Increased spacing between fields */
     text-align: left;
-    color: #ff851b; /* Orange */
+    color:#a41b2f; /* Orange */
     font-weight: bold;
 }
 
@@ -39,7 +39,7 @@ input, select, textarea, button {
     padding: 12px; /* Slightly larger padding for better usability */
     margin-top: 8px;
     border-radius: 5px;
-    border: 1px solid #ff851b; /* Orange Border */
+    border: 1px solid #a41b2f; /* Orange Border */
     background: #eaf3fc; /* Light Background for inputs */
     color: #001f3f; /* Navy Blue Text */
     font-size: 16px; /* Larger text */
@@ -47,12 +47,12 @@ input, select, textarea, button {
 
 input:focus, textarea:focus, select:focus {
     outline: none;
-    border-color: #ff851b; /* Highlight with Orange */
+    border-color: #a41b2f; /* Highlight with Orange */
     background: #ffffff; /* White background on focus */
 }
 
 button {
-    background: #ff851b; /* Orange */
+    background: #a41b2f; /* Orange */
     color: #ffffff; /* White Text */
     font-size: 18px; /* Slightly larger font */
     border: none;
@@ -72,7 +72,7 @@ button:hover {
     padding: 20px; /* Increased padding */
     background: #001f3f; /* Navy Blue */
     color: #ffffff; /* White Text */
-    border: 1px solid #ff851b; /* Orange Border */
+    border: 1px solid#a41b2f; /* Orange Border */
     border-radius: 5px;
     text-align: left;
     font-size: 16px; /* Slightly larger text for better readability */
